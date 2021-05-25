@@ -1,3 +1,4 @@
+/*This is awesome*/
 import * as bjson from "./bjson.so";
 
 function assert(actual, expected, message) {
